@@ -40,7 +40,7 @@ This command will download, install, and start ZooKeeper, Kafka, and YARN. It wi
 
 If you get a complaint that _JAVA_HOME_ is not set, then you'll need to set it to the path where Java is installed on your system.
 
-Once the grid command completes, you can verify that YARN is up and running by going to [http://localhost:8088](http://localhost:8088). This is the YARN UI.
+Once the grid command completes, you can verify that YARN is up and running by going to [http://localhost:8042](http://localhost:8042). This is the YARN UI.
 
 #### 3. Build a Samza Application Package
 
